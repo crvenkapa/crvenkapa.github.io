@@ -3,10 +3,10 @@ a, a:visited { color: #b3002d; text-decoration: none; }
 a:hover, a:focus { color: #800020; text-decoration: underline; }
 ul { padding: 0; list-style-position: inside; list-style-type: none; }
 .links {
-	-webkit-column-count: 3; /* Chrome, Safari, Opera */
-	-moz-column-count: 3; /* Firefox */
+	-webkit-column-count: 2; /* Chrome, Safari, Opera */
+	-moz-column-count: 2; /* Firefox */
 	font-variant: small-caps;
-	column-count: 3;
+	column-count: 2;
 	text-align: center; }
 div.header {
 	width: 600px;
